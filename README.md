@@ -2,13 +2,12 @@
 
 # Hello there... Thanks for popping by 🙂
 
-My name is Waseem, I'm an aspiring Software Developer thanks to <a href="https://www.schoolofcode.co.uk/" target="_blank">School of Code</a>, currently in search of a position to take my progression to the next level.
+My name is Waseem, I'm an aspiring Software Developer thanks to [School of Code](https://www.schoolofcode.co.uk/), currently in search of a position to take my progression to the next level.
 I previously worked in Banking (no booing please 😬) before a pursuit of happiness brought me to this wonderful world of code!
 
-<br>
-<br>
 
-### Technologies and Tools
+
+## Technologies and Tools 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> 
