@@ -2,10 +2,8 @@
 
 # Hello there... Thanks for popping by 🙂
 
-My name is Waseem, I'm an aspiring Software Developer thanks to <a href="https://www.schoolofcode.co.uk/" target="_blank">School of Code</a>, currently in search of a position <br>
-to take my progression to the next level.
-I previously worked in Banking (no booing please 😬) before a pursuit of <br>
-happiness brought me to this wonderful world of code!
+My name is Waseem, I'm an aspiring Software Developer thanks to <a href="https://www.schoolofcode.co.uk/" target="_blank">School of Code</a>, currently in search of a position to take my progression to the next level.
+I previously worked in Banking (no booing please 😬) before a pursuit of happiness brought me to this wonderful world of code!
 
 <br>
 <br>
